@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questionnaire", "Questionnaire\Questionnaire.csproj", "{912C9318-505E-4941-9B05-B6402DDC4BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questionnaire.DBSource", "Questionnaire.DBSource\Questionnaire.DBSource.csproj", "{43140555-2614-4108-9F60-3EBBC6A1FA3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912C9318-505E-4941-9B05-B6402DDC4BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912C9318-505E-4941-9B05-B6402DDC4BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912C9318-505E-4941-9B05-B6402DDC4BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912C9318-505E-4941-9B05-B6402DDC4BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43140555-2614-4108-9F60-3EBBC6A1FA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43140555-2614-4108-9F60-3EBBC6A1FA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43140555-2614-4108-9F60-3EBBC6A1FA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43140555-2614-4108-9F60-3EBBC6A1FA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B85591F6-FA8A-4B38-8B8A-D3FF7B46AA37}
+	EndGlobalSection
+EndGlobal
